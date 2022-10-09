@@ -12,7 +12,8 @@ body{
     width: 70%;
     height: 80%;
     display: flex;
-    background-color: #d5d5d5;
+    background-color: #fff;
+    /* background-color: #d5d5d5; */
     border: #000 2px solid;
     margin: 8% 15% 2% 15%;
 }
@@ -36,17 +37,28 @@ body{
     border-right: 2px solid;
 }
 
+/* .button{
+    width: 2%;
+    height: 100%;
+    background-color: #888;
+} */
+
 .button{
     width: 2%;
     height: 100%;
 }
 
-.date{
+.tab{
     width: 100%;
-    height: 12.5%;
+    height: 13%;
     border-top: 1px solid;
+    padding: 5px;
 }
 
-#date{
+.tab1{
+    height: 9%;
     border: none;
+    padding: 24px;
+    size: 22px;
 }
+
