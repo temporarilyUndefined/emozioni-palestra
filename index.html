@@ -3,13 +3,12 @@
     <meta charset="UTF-8">
     <title>Diario palestra</title>
     <link rel="stylesheet" href="master.css">
-    <script src="main.js"></script>
 </head>
 <body>
     <div id="main">
         <div class="button" onclick="previousweek()"></div>
         <div id="left">
-            <div class="tab1"></div>
+            <div class="titleTab" id="weekDate"></div>
             <div class="tab">Lunedi</div>
             <div class="tab">Martedi</div>
             <div class="tab">Mercoledi</div>
@@ -19,32 +18,29 @@
             <div class="tab">Domenica</div>
         </div>
         <div id="center">
-            <div class="tab1">EMOZIONI</div>
-            <div class="tab">disagio</div>
-            <div class="tab"></div>
-            <div class="tab"></div>
-            <div class="tab"></div>
-            <div class="tab"></div>
-            <div class="tab"></div>
-            <div class="tab"></div>
+            <div class="titleTab">EMOZIONI</div>
+            <div class="tabEm"></div>
+            <div class="tabEm"></div>
+            <div class="tabEm"></div>
+            <div class="tabEm"></div>
+            <div class="tabEm"></div>
+            <div class="tabEm"></div>
+            <div class="tabEm"></div>
         </div>
         <div id="right">
-            <div class="tab1">DESCRIZIONE</div>
-            <div class="tab">
-                oggi ho sudato tanto, ma veramente tanto. non so il perche, non ho fatto esercizi diversi, forse era piu caldo. fatto sta che ero zuppo. so che in palestra e normale sudare ma mi ha provocato un po di disagio, niente di eccessivo. ho comunque terminato il mio allenamento tranquillamente
-            </div>
-            <div class="tab"></div>
-            <div class="tab">
-                niente di particolarmente emozionante e successo oggi. ho provato un orario diverso dal solito (14:30 invece che 16) forse c'era un po meno gente, oltre questo nessuna differenza.
-            </div>
-            <div class="tab"></div>
-            <div class="tab">
-                anche oggi non mi sembra di aver provato particolari emozioni. Mentre tornavo a casa riflettendo mi é sembrato di essere piu rilassato rispetto all'andata
-            </div>
-            <div class="tab"></div>
-            <div class="tab"></div>
+            <div class="titleTab">DESCRIZIONE</div>
+            <div class="tabDesc"></div>
+            <div class="tabDesc"></div>
+            <div class="tabDesc"></div>
+            <div class="tabDesc"></div>
+            <div class="tabDesc"></div>
+            <div class="tabDesc"></div>
+            <div class="tabDesc"></div>
         </div>
         <div class="button"  onclick="nextweek()"></div>
     </div>
 </body>
+<script src="main.js"></script>
+<script src="data.js"></script>
 </html>
+
