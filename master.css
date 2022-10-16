@@ -45,7 +45,13 @@ body{
 
 .button{
     width: 2%;
-    
+    height: 100%;
+    display: flex;
+    vertical-align: middle;
+}
+
+.button:hover{
+    background-color: #ccc;
 }
 
 .tab{
@@ -76,4 +82,9 @@ body{
     border-top: 1px solid;
     padding: 5px;
     overflow-y: scroll;
+}
+
+
+#leftImg{
+    transform: rotate(180deg);
 }

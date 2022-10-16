@@ -28,6 +28,5 @@ function changeWeek(data){
 }
 
 window.onload = function() {
-    changeWeek(text[currentWeek] ? text[currentWeek] : {emozioni: [], descrizione: []})
-    console.log(currentWeek);
+    changeWeek(text[currentWeek] ? text[currentWeek] : {emozioni: [], descrizione: []});
 }
