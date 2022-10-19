@@ -21,11 +21,11 @@ let text = [
         `oggi sono andato a firenze con mia mamma per comprare cose (abbigliamento) che mi servivano e comunque per fare anche un giro. sono stato bene ma non mi viene da dire di essere stato felice, forse non so "godermi i piccoli piaceri della vita"`]
     },
     {
-    emozioni: [``, `contento`, `stanco /n felice`, ``, ``, ``, ``],
+    emozioni: [``, `contento`, `stanco \n felice`, ``, ``, ``, ``],
     descrizione: [
         ``,
         `di ritorno dall'allenamento, mi sento bene,  sono contento.`,
-        `non esattamente un emozione	ma oggi sento come una senso di stancezza in sottofondo, non stanchezza fisica ne mentale, non mi spiego il  perche ho dormito bene (almeno credo) e appunto non sento una stanchezza fisica. ma se cerco di pensare a come mi sento sento questo leggero senso di stanchezza. Torno dalla palestra ora stanco anche fisicamente ¯\_(ツ)_/¯ ma mi sento contento.`,
+        `non esattamente un emozione	ma oggi sento come una senso di stancezza in sottofondo, non stanchezza fisica ne mentale, non mi spiego il  perche ho dormito bene (almeno credo) e appunto non sento una stanchezza fisica. ma se cerco di pensare a come mi sento sento questo leggero senso di stanchezza. Torno dalla palestra ora stanco anche fisicamente ¯\\_(ツ)_/¯ ma mi sento contento.`,
         ``,
         ``,
         ``,
