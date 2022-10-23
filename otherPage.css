@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    padding: 25px;
+    width: 100%;
+}
+
+#title{
+    width: 100%;
+    font-size: x-large;
+    text-align: center;
+
+}
+
+#content{
+    padding: 20px;
+}

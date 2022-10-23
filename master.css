@@ -88,3 +88,16 @@ body{
 #leftImg{
     transform: rotate(180deg);
 }
+
+
+.altro{
+    width: 97%;
+    min-height: 200px;
+    margin-left: 3%;
+    color: #fff;
+    font-size:xx-large;
+}
+
+a{
+    font-size: large;
+}
