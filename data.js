@@ -25,11 +25,33 @@ let text = [
     descrizione: [
         ``,
         `di ritorno dall'allenamento, mi sento bene,  sono contento.`,
-        `non esattamente un emozione	ma oggi sento come una senso di stancezza in sottofondo, non stanchezza fisica ne mentale, non mi spiego il  perche ho dormito bene (almeno credo) e appunto non sento una stanchezza fisica. ma se cerco di pensare a come mi sento sento questo leggero senso di stanchezza. Torno dalla palestra ora stanco anche fisicamente ¯\\_(ツ)_/¯ ma mi sento contento.`,
+        `non esattamente un emozione ma oggi sento come una senso di stanchezza in sottofondo, non stanchezza fisica ne mentale, non mi spiego il  perche ho dormito bene (almeno credo) e appunto non sento una stanchezza fisica. ma se cerco di pensare a come mi sento sento questo leggero senso di stanchezza. Torno dalla palestra ora stanco anche fisicamente ¯\\_(ツ)_/¯ ma mi sento contento.`,
         `oggi ho fatto i compiti per casa e descritto il rapporto / storia con papá e il farlo mi ha reso triste.`,
         `oggi tornando dalla palestra non mi sentivo rilassato / felice come altre volte. non so che nome dare a questa emozione poiche non mi sento triste, semplicemente piu teso rispetto alle altre volte`,
         `oggi sono stato pigro e non ho fatto praticamente niente tuuto il giorno, non mi sento triste ma sento un leggero senso di colpa per non aver fatto niente`,
         ``]
+    },
+    {
+    emozioni: [``, `felice`, `felice`, ``, `felice`, ``, ``],
+    descrizione: [
+        ``,
+        `sono andato in palestra, mi sento rilassato`,
+        `anche oggi palestra, e sono contento dell'allenamento`,
+        `oggi sono andato a tagliarmi i capelli, sono soddisfatto del taglio, forse preferivo i capelli leggermente piu lunghi sopra, ma comunque soddisfatto`,
+        `tornando dalla palestra mi sento contento`,
+        ``,
+        ``]
+    },
+    {
+    emozioni: [`felice`, ``, `felice`, ``, `felice`, `frustrato`, `contento`],
+    descrizione: [
+        `palestra acnhe oggi, orami andare in palestra mi rilassa e mi sento piu felice`,
+        `oggi festa, non ho fatto granché ma tutto sommato direi che sono contento`,
+        `oggi palestra di nuovo, sono soddisfatto`,
+        ``,
+        `seppre felice per la palestra`,
+        `frustrazione dovuta ad un videogioco, multiplayer, quando perdi per colpa del team che trolla le partite`,
+        `non ho fatto molto oggi, l'unica cosa per cui scrivo che sono contento é il team esport che preferivo ha vinto la finale`]
     },
     {
     emozioni: [``, ``, ``, ``, ``, ``, ``],

@@ -1,4 +1,4 @@
-const firstDay = new Date("2022-10-3").getTime()
+const firstDay = new Date("2022-10-3").getTime() + 3600000
 const weekms = 604800000
 let currentWeek = Math.floor((Date.now() - firstDay)/weekms) - 1;
 
