@@ -49,9 +49,31 @@ let text = [
         `oggi festa, non ho fatto granché ma tutto sommato direi che sono contento`,
         `oggi palestra di nuovo, sono soddisfatto`,
         ``,
-        `seppre felice per la palestra`,
+        `sempre felice per la palestra`,
         `frustrazione dovuta ad un videogioco, multiplayer, quando perdi per colpa del team che trolla le partite`,
         `non ho fatto molto oggi, l'unica cosa per cui scrivo che sono contento é il team esport che preferivo ha vinto la finale`]
+    },
+    {
+    emozioni: [`contento`, `felice`, ``, ``, `felice`, ``, ``],
+    descrizione: [
+        `ogi il dottore mi ha detto che mi sto muovendo nella giusta direzione e che devo essere content, quindi sono contento`,
+        `sono andato in palestra, sono contento`,
+        ``,
+        ``,
+        `anche oggi palestra, questa settimana ho saltato 1 volta e ci sono andato solo 2 su 3, quindi oggi ho fatto sia un po di gambe che schiena. alla fine sono contento di come mi sono allenato`,
+        ``,
+        ``]
+    },
+    {
+    emozioni: [`felice`, ``, ``, ``, ``, ``, ``],
+    descrizione: [
+        `sono andato in palestra, sono contento`,
+        ``,
+        ``,
+        ``,
+        ``,
+        ``,
+        ``]
     },
     {
     emozioni: [``, ``, ``, ``, ``, ``, ``],
