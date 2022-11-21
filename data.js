@@ -65,9 +65,20 @@ let text = [
         ``]
     },
     {
-    emozioni: [`felice`, ``, ``, ``, ``, ``, ``],
+    emozioni: [`felice`, ``, ``, `deluso`, `felice`, ``, ``],
     descrizione: [
         `sono andato in palestra, sono contento`,
+        ``,
+        ``,
+        `oggi mi ero ripromesso di andare in palestra visto che ieri avevo una visita col mio medico di base e non ci sono andato. invece alla fine ho oziato e non ci sono andato, mi sento un po in colpa con me stesso`,
+        `oggi palestra, ho cercato di "recuperare" anche la sessione di ieri, faticoso ma sono contento`,
+        ``,
+        ``]
+    },
+    {
+    emozioni: [``, ``, ``, ``, ``, ``, ``],
+    descrizione: [
+        ``,
         ``,
         ``,
         ``,
