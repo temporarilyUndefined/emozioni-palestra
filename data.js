@@ -76,6 +76,17 @@ let text = [
         ``]
     },
     {
+    emozioni: [``, `felice`, `felice`, ``, `felice`, ``, `felice`],
+    descrizione: [
+        ``,
+        `oggi sono andato in palestra`,
+        `oggi in palestra mi sono pesato e misurato massa mgrassa / magra, ho messo su circa due Kg e mi hanno detto che sto andando nella giusta direzione`,
+        ``,
+        `oggi palestra, questa settimana sono riuscito a fare 3 allenamenti su 3, inoltre, forse perche pioveva, oggi c'era poschissima gente`,
+        ``,
+        `oggi siamo andati da mia nonna, abbiamo mangiato fuori`]
+    },
+    {
     emozioni: [``, ``, ``, ``, ``, ``, ``],
     descrizione: [
         ``,
