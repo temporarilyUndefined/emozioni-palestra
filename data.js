@@ -1,4 +1,15 @@
 let text = [
+    {
+    emozioni: [`ansia \n imbarazzo \n accomplishment`, ``, `validazione`, ``, ``, ``, ``],
+    descrizione: [
+        `leggero senso di ansia non tanto in palestra ma mentre andavo verso la palestra. \n momento di imbarazzo mentre riponevo dei pesi di fianco ad un macchinario che stavano per utilizzare altri due ragazzi, che ha causato un momento di silenzio. \n accomplishment / realizzazione mentre tornando a casa ero sfinito ma contento di aver finito l'allenamento. \n L'esperienza e positiva, la palestra é tranquilla, faccio le mie sserie di esercizi e fine. ,metre sono in palestra sono principalmente concentrato sugli esercizi che sto facendo e nel cerdcare di eseguirli in modo corretto. dopo questa seduta (leg day) ho capito che le condizione delle mie gambe sono peggiori di quanto credessi.`,
+        ``,
+        `mentre mi allenavo e l'istruttore mi mostrava un esercizio mi ha detto "hai i muscoli in pump, vuol dire che stai lavorando bene", io sapevo di star facendo bene e sentirlo dire mi ha dato un senso di validazione dei mie sforzi.`,
+        ``,
+        ``,
+        ``,
+        ``]
+    },
    {
     emozioni: ["disagio", "", "", "", "", "", ""],
     descrizione: ["oggi ho sudato tanto, ma veramente tanto. non so il perche, non ho fatto esercizi diversi, forse era piu caldo. fatto sta che ero zuppo. so che in palestra e normale sudare ma mi ha provocato un po di disagio, niente di eccessivo. ho comunque terminato il mio allenamento tranquillamente",
@@ -95,7 +106,7 @@ let text = [
         `oggi pomeriggio mi sono appisolato, quando mi sono svegliato, mi sentivo un po giu, forse anche per il pensiero di aver sprecato del tempo`,
         `Anche oggi sono andato in palestra e mi sento rilassato`,
         ``,
-        `stamani non mi sentivo piu "su di morale" del solito, senza particolare motivo`]
+        `stamani mi sentivo piu "su di morale" del solito, senza particolare motivo`]
     },
     {
     emozioni: [`ansia \n felice`, ``, ``, ``, ``, ``, ``],
