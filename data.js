@@ -87,9 +87,20 @@ let text = [
         `oggi siamo andati da mia nonna, abbiamo mangiato fuori`]
     },
     {
-    emozioni: [``, ``, ``, ``, ``, ``, ``],
+    emozioni: [``, `frustrato \n felice`, `felice`, `triste`, `felice`, ``, `felice`],
     descrizione: [
         ``,
+        `ho aspettato 1h 30 per vedere la Dott. Carmassi, non so se sia giusto definirela frustrazione, sicuramente aspettare non mi ha reso felice. \n Il primo pomeriggio sono andato in palestra`,
+        `oggi son andato in palestra `,
+        `oggi pomeriggio mi sono appisolato, quando mi sono svegliato, mi sentivo un po giu, forse anche per il pensiero di aver sprecato del tempo`,
+        `Anche oggi sono andato in palestra e mi sento rilassato`,
+        ``,
+        `stamani non mi sentivo piu "su di morale" del solito, senza particolare motivo`]
+    },
+    {
+    emozioni: [`ansia \n felice`, ``, ``, ``, ``, ``, ``],
+    descrizione: [
+        `stamani sono andato al centro per l'impiego, il che mi ha creato un po di ansia poiche non sapevo cosa aspettarmi, mi sono reso conto che ero leggermente in ansia quando dopo una domanda ho iniziato ad "impappinarmi" con le parole. Successivamente, visto che ero vicino, ne ho approfittato per andare in palestra.`,
         ``,
         ``,
         ``,
@@ -107,6 +118,6 @@ let text = [
         ``,
         ``,
         ``]
-    }
+    }   
 ]
 
