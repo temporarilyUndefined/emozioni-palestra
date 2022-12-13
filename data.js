@@ -109,9 +109,20 @@ let text = [
         `stamani mi sentivo piu "su di morale" del solito, senza particolare motivo`]
     },
     {
-    emozioni: [`ansia \n felice`, ``, ``, ``, ``, ``, ``],
+    emozioni: [`ansia \n felice`, ``, `felice`, ``, `felice`, ``, `spiacevole`],
     descrizione: [
         `stamani sono andato al centro per l'impiego, il che mi ha creato un po di ansia poiche non sapevo cosa aspettarmi, mi sono reso conto che ero leggermente in ansia quando dopo una domanda ho iniziato ad "impappinarmi" con le parole. Successivamente, visto che ero vicino, ne ho approfittato per andare in palestra.`,
+        ``,
+        `anche oggi palestra, mi sento rilassato`,
+        ``,
+        `oggi palestra, ho provato la nuova scheda per la prima volta`,
+        ``,
+        `oggi pomeriggio sono andato con mamma a fare un giro a lucca, non ne avevo particolarmente voglia ma ho pensato che almeno mi levo un po di casa. Tra la quantita di gente che cera e il tempo non bellissimo l'esperienza é stata spiacevole, non e un emozione ma lunica cosa che mi viene da dire e  spiacevole`]
+    },
+    {
+    emozioni: [`felice`, ``, ``, ``, ``, ``, ``],
+    descrizione: [
+        `oggi palestra, ho provato la seconda sessione della nuova scheda, mi é piaciuto provare esercizi nuovi`,
         ``,
         ``,
         ``,
@@ -129,6 +140,7 @@ let text = [
         ``,
         ``,
         ``]
-    }   
+    },
+        
 ]
 
