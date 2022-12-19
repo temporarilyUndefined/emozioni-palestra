@@ -120,15 +120,15 @@ let text = [
         `oggi pomeriggio sono andato con mamma a fare un giro a lucca, non ne avevo particolarmente voglia ma ho pensato che almeno mi levo un po di casa. Tra la quantita di gente che cera e il tempo non bellissimo l'esperienza é stata spiacevole, non e un emozione ma lunica cosa che mi viene da dire e  spiacevole`]
     },
     {
-    emozioni: [`felice`, ``, ``, ``, ``, ``, ``],
+    emozioni: [`felice`, ``, `felice`, ``, `felice`, ``, ``],
     descrizione: [
         `oggi palestra, ho provato la seconda sessione della nuova scheda, mi é piaciuto provare esercizi nuovi`,
         ``,
+        `oggi palestra, gambe con nuava scheda, sono stanco`,
         ``,
+        `oggi palestra, inizio a prendere piu confidenza con i nuovi esercizi e ad aumentare i carichi`,
         ``,
-        ``,
-        ``,
-        ``]
+        `oggi sono andato con mamma a fare un giro a marina di pisa, giro breve, non é stato male`]
     },
     {
     emozioni: [``, ``, ``, ``, ``, ``, ``],
@@ -140,7 +140,7 @@ let text = [
         ``,
         ``,
         ``]
-    },
+    }
         
 ]
 
