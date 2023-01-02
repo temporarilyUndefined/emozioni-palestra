@@ -131,6 +131,28 @@ let text = [
         `oggi sono andato con mamma a fare un giro a marina di pisa, giro breve, non é stato male`]
     },
     {
+    emozioni: [`felice`, ``, `felice`, ``, `felice`, ``, `felice`],
+    descrizione: [
+        `oggi sono andato in palestra`,
+        ``,
+        `anche oggi palestra, in questi giorni c'é meno gente, e  piu tranqullo`,
+        ``,
+        `oggi palestra`,
+        ``,
+        `natale, oggi siamo andati a carrara in un ristorante insieme a nonna, mia zia (sorella di mamma) e mio cugino, inoltre con loro c'era anche mio zio (marito sorella mamma) che non vedevo da diversi anni e che mi ha fatto piacere rivedere.`]
+    },
+    {
+    emozioni: [``, `felice`, `disagio \n felice`, `felice`, `felice`, `felice`, ``],
+    descrizione: [
+        `Oggi sono andato a pranzo con papá, sono stato bene anche se al ristorante ci hanno messo davero tanto tempo tra un piatto e l'altro`,
+        `oggi pomeriggio sono andato in palestra, sono contento`,
+        `stamani avevo una visita dal dermatologo, sono arrivato molto sudato, penso che potrebbe essere un effetto del daparox, la cosa mi ha messo abbastanza a disagio. \n dopo essere tornato a casa sono andato con mamma a fare un giro a barberino`,
+        `oggi a pranzo con papá e mia zia (sua sorella) e famiglia, sono stato bene.`,
+        `oggi pomeriggio palestra`,
+        `ultimo dell'anno non ho fatto ninte di particolare, cena in casa con mamma`,
+        ``]
+    },
+    {
     emozioni: [``, ``, ``, ``, ``, ``, ``],
     descrizione: [
         ``,
