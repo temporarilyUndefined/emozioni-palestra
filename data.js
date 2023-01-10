@@ -153,6 +153,28 @@ let text = [
         ``]
     },
     {
+    emozioni: [`felice`, `felice`, `felice`, ``, ``, ``, `noia`],
+    descrizione: [
+        `oggi pomeriggio sono andato in palestra`,
+        `oggi sono riuscito a sistemare un bag di un programmino che avevo fatto tempo fa`,
+        `oggi sono andato in palestra, non ne avevo tanta voglia ma sono comunque contento`,
+        `oggi sono andato a pranzo da papá (solo lui), e poi a fare un giro a lucca con lui. anche se dovrei essere felice perche cumunque e una bella giornata non credo di riuscire a 'enjoy' la giornata`,
+        `oggi non ho fatto niente di particolare, anche perche mamma ha un po di raffreddore, comunque penso di essere felice anche se non ho fatto nulla`,
+        `oggi come ieri`,
+        `anche oggi come i giorni precedenti, oggi ho accusato un po di noia`]
+    },
+    {
+    emozioni: [`felice`, ``, ``, ``, ``, ``, ``],
+    descrizione: [
+        `oggi sono stato in palestra, mi piace vedere i miei progressi specialmente in "panca piana con bilancere"`,
+        ``,
+        ``,
+        ``,
+        ``,
+        ``,
+        ``]
+    },
+    {
     emozioni: [``, ``, ``, ``, ``, ``, ``],
     descrizione: [
         ``,
@@ -163,6 +185,6 @@ let text = [
         ``,
         ``]
     }
-        
+    
 ]
 
